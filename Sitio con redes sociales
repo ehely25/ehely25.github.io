@@ -1,0 +1,56 @@
+```html
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+<meta charset="UTF-8">
+<title>Aprender Programación</title>
+
+
+</head>
+
+<body>
+
+<header>
+<h1>Aprender Programación</h1>
+<h3> by Joanna Lopez</h3>
+</header>
+
+<nav>
+<a href="https://www.freecodecamp.org/" target="_blank">
+Visitar FreeCodeCamp
+</a>
+</nav>
+
+<main>
+
+<section>
+<p>
+FreeCodeCamp es una plataforma educativa gratuita donde cualquier persona puede aprender
+programación, desarrollo web, ciencia de datos y otras habilidades tecnológicas.
+El sitio ofrece cursos interactivos, proyectos prácticos y certificaciones que ayudan
+a desarrollar experiencia real en programación mientras se aprende paso a paso.
+</p>
+</section>
+ <p>
+   <!-- hipervínculo -->
+   <a target="_blank" rel="noreferrer"
+     https://www.freecodecamp.org/
+  </p>
+
+<section>
+
+<h2>Mi página de Facebook</h2>
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D61584890337248&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+</section>
+
+</main>
+
+<footer>
+<p>© 2026 Joanna Lopez | Página educativa</p>
+</footer>
+
+</body>
+</html>
+```
